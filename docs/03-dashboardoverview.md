@@ -29,6 +29,3 @@ Below is a close-up of the navigation menu for a construction website, they have
 **Plugins** - This is where plugins that make your site run live you will need to update these but we will talk about that in another section.
 
 ![Dashboard](/img/dashboard2.png)
-
-test
-
