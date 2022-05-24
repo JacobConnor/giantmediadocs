@@ -28,7 +28,6 @@ const config = {
   },
   plugins: [
     require.resolve("docusaurus-plugin-image-zoom"),
-    '@aldridged/docusaurus-plugin-lunr'
   ],
   presets: [
     [
@@ -62,7 +61,7 @@ const config = {
       navbar: {
         title: 'Giant Support',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Support Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -72,6 +71,7 @@ const config = {
             position: 'left',
             label: 'Get Started',
           },
+           //{to: '/docs/category/ecommerce', label: 'Ecommerce', position: 'left'},
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
@@ -97,7 +97,22 @@ const config = {
                 label: 'Get Started',
                 to: '/docs/intro',
               },
+              {
+                label: 'Logging In',
+                to: '/docs/howtologin',
+              },
+              {
+                label: 'Editing Your Website',
+                to: '/docs/category/editing-your-website',
+              },
+
+              {
+                label: 'Ecommerce',
+                to: '/docs/category/ecommerce',
+              },
+              
             ],
+            
           },
           {
             title: 'Get In Touch',

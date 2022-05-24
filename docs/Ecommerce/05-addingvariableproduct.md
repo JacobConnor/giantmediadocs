@@ -1,8 +1,14 @@
 # Adding a Variable Product
 
-## Introduction
-
 Variable products in WooCommerce let you offer a set of variations on a product, with control over prices, stock, image and more for each variation. They can be used for a product like a shirt, where you can offer a large, medium and small and in different colors.
+
+import Video from '@site/src/components/video'
+
+<Video youtubeId='KvUTSmsHCGU' />
+
+***
+
+## Change to A Variable Product Type
 
 To add a variable product, create a new product or edit an existing one.
 

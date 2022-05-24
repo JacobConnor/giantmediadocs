@@ -1,3 +1,5 @@
 # Accordions (FAQs/Food Menus)
 
-Coming soon - need to find a website we've recently done with one of these.
+import Video from '@site/src/components/video'
+
+<Video youtubeId='C45PquUyWvw' />

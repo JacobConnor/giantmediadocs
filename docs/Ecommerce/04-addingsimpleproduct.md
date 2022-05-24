@@ -1,6 +1,14 @@
 # Adding a Simple Product
 
-A simple product is a product that doesn’t have variations e.g. different colors or sizes. To add a new product click on the products tab. Adding a Simple product is similar to writing a post in WordPress.
+A simple product is a product that doesn’t have variations e.g. different colors or sizes. 
+
+import Video from '@site/src/components/video'
+
+<Video youtubeId='fl8RddXxY4s' />
+
+***
+
+To add a new product click on the products tab. Adding a Simple product is similar to writing a post in WordPress.
 
 ![simpleproduct](./img/simpleproduct.png)
 
@@ -49,8 +57,6 @@ Add an excerpt. This typically appears next to product imagery on the listing pa
 ## Categories/Tags
 
 See overview of how [Product Categories](../ecommerce/productcategories) work here. On the right-hand side of the Add New Product panel, there are product categories in which you can place your product, similar to a standard WordPress post. You can also assign product tags in the same way
-
-import Video from '@site/src/components/video'
 
 ![simpleproduct](./img/categoryprod.png)
 
