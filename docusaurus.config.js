@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Giant Support',
   tagline: 'Get to know your wesbite',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://support.giantmedia.com.au',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -62,15 +62,16 @@ const config = {
         title: 'Giant Support',
         logo: {
           alt: 'Support Logo',
-          src: 'img/logo.svg',
+          src: 'img/giant.svg',
+          srcDark: 'img/giantwhite.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Get Started',
-          },
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Get Started',
+          // },
            //{to: '/docs/category/ecommerce', label: 'Ecommerce', position: 'left'},
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
@@ -88,41 +89,41 @@ const config = {
         },
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Get Started',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Logging In',
-                to: '/docs/howtologin',
-              },
-              {
-                label: 'Editing Your Website',
-                to: '/docs/category/editing-your-website',
-              },
+          // {
+          //   title: 'Docs',
+          //   items: [
+          //     {
+          //       label: 'Get Started',
+          //       to: '/docs/intro',
+          //     },
+          //     {
+          //       label: 'Logging In',
+          //       to: '/docs/howtologin',
+          //     },
+          //     {
+          //       label: 'Editing Your Website',
+          //       to: '/docs/category/editing-your-website',
+          //     },
 
-              {
-                label: 'Ecommerce',
-                to: '/docs/category/ecommerce',
-              },
+          //     {
+          //       label: 'Ecommerce',
+          //       to: '/docs/category/ecommerce',
+          //     },
               
-            ],
+          //   ],
             
-          },
-          {
-            title: 'Get In Touch',
-            items: [
-              {
-                label: 'Contact Giant',
-                href: 'https://giantmedia.com.au/contact/',
-              },
-            ],
-          },
+          // },
+          // {
+          //   title: 'Get In Touch',
+          //   items: [
+          //     {
+          //       label: 'Contact Giant',
+          //       href: 'https://giantmedia.com.au/contact/',
+          //     },
+          //   ],
+          // },
           // {
           //   title: 'More',
           //   items: [
