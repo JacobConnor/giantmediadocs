@@ -8,7 +8,7 @@ Once you're logged in you will be directed to your website dashboard. This is th
 
 ![Dashboard](/img/dashboard1.png)
 
-On the left-hand side, there is a navigational menu. This is the main thing that you need to know here. This is where you can navigate around your website and do things such as add new services, add new blog posts & edit existing content. 
+On the left-hand side, there is a navigational menu. This is the main thing that you need to know here. This is where you can navigate around your website and do things such as add new services, add new blog posts & edit existing content. You can also click on your business name (top left) and navigate on the front end of the website and simply click "edit page". This will let you edit tat pages content.
 
 Below is a close-up of the navigation menu for a construction website, they have a blog, that showcases their projects, and also displays their services. There are only a few things that you need to know here. Here's a brief explanation of what each does
 
