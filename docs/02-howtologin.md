@@ -16,4 +16,4 @@ If you scroll to the bottom of your website there is an admin link that will tak
 
 ## Alternate Way
 
-You can add /wp-admin to the end of your website URL and it will take you to the login screen. An example of this would be https://giantmedia.com.au/wp-admin
+You can add /wp-admin to the end of your website URL and this will take you to the login screen. An example of this would be https://giantmedia.com.au/wp-admin
